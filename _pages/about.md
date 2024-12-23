@@ -32,6 +32,7 @@ My research interest includes metastable alloys.
 
 [Soft magnetic high-entropy metallic glasses](https://www.sciencedirect.com/science/article/abs/pii/S1359645423003142)
 
+Lingxiang Shi, Yang Shao, Ziyi Fan, Ranbin Wang, Chenyu Lu, Kefu Yao.
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=e72cZxYAAAAJ&citation_for_view=e72cZxYAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='e72cZxYAAAAJ:W7OEmFMy1HYC'></span></strong>
 - Connecting the composition, structure, and magnetic property in high-entropy metallic glasses. 
