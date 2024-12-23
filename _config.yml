@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lingxiang Shi"
+  name             : "Lingxiang Shi (施 凌翔)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  bio              : "Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=e72cZxYAAAAJ"
-  email            : "Lorem@ipsum.com"
+  email            : "shilingxiang@ipsum.com"
   researchgate     : "https://www.researchgate.net/profile/Lingxiang-Shi"
   uri              :
   bitbucket        :
