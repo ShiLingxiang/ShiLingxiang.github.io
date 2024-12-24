@@ -32,7 +32,7 @@ redirect_from:
 [软磁高熵非晶合金  Soft magnetic high-entropy metallic glasses](https://www.sciencedirect.com/science/article/abs/pii/S1359645423003142)
 
 Lingxiang Shi (施凌翔), Yang Shao (邵洋), Ziyi Fan (范子宜), Ranbin Wang (王冉宾), Chenyu Lu (卢辰雨), Kefu Yao* (姚可夫).
-*通讯作者。Corresponding author.
+(*通讯作者。Corresponding author.)
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=e72cZxYAAAAJ&citation_for_view=e72cZxYAAAAJ:W7OEmFMy1HYC) <strong><span class='show_paper_citations' data='e72cZxYAAAAJ:W7OEmFMy1HYC'></span></strong>
 - Connecting the composition, structure, and magnetic property in high-entropy metallic glasses. 
