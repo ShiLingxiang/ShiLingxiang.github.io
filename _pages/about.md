@@ -44,8 +44,8 @@ Lingxiang Shi (施凌翔), Yang Shao (邵洋), Ziyi Fan (范子宜), Ranbin Wang
 
 # External Links
 
-[Kefu Yao 姚可夫](https://www.mse.tsinghua.edu.cn/info/1024/1589.htm) 教授 
+[Kefu Yao 姚可夫](https://www.mse.tsinghua.edu.cn/info/1024/1589.htm) Professor 教授 
 
-[Na Chen 陈娜](https://www.mse.tsinghua.edu.cn/info/1024/1648.htm) 副研究员
+[Na Chen 陈娜](https://www.mse.tsinghua.edu.cn/info/1024/1648.htm) Associate Professor 副教授
 
-[Yang Shao 邵洋](https://www.mse.tsinghua.edu.cn/info/1024/2869.htm) 副研究员
+[Yang Shao 邵洋](https://www.mse.tsinghua.edu.cn/info/1024/2869.htm) Associate Professor 副教授
