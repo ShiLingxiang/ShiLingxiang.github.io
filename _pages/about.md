@@ -42,8 +42,9 @@ Lingxiang Shi (施凌翔), Yang Shao (邵洋), Ziyi Fan (范子宜), Ranbin Wang
 
 # 🎖 Honors and Awards
 
-# 🧑‍🎓 Advisors & Collaborators
+# 🧑‍🎓 导师及合作者 Advisors & Collaborators
 
+清华大学 Tsinghua University：
 [Kefu Yao 姚可夫](https://www.mse.tsinghua.edu.cn/info/1024/1589.htm) Professor 教授 
 
 [Na Chen 陈娜](https://www.mse.tsinghua.edu.cn/info/1024/1648.htm) Associate Professor 副教授
