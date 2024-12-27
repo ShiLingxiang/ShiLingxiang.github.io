@@ -42,7 +42,7 @@ Lingxiang Shi (施凌翔), Yang Shao (邵洋), Ziyi Fan (范子宜), Ranbin Wang
 
 # 🎖 Honors and Awards
 
-# External Links
+# 🧑‍🎓 Advisors & Collaborators
 
 [Kefu Yao 姚可夫](https://www.mse.tsinghua.edu.cn/info/1024/1589.htm) Professor 教授 
 
